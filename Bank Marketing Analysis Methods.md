@@ -1,5 +1,5 @@
 ## Bank Marketing Analysis Methods
-This code applies various data science methods to analyze bank marketing data. The main methods used are:
+This code applies various data science methods to determine give loans to customers or not. The main methods used are:
 
 ### Data Loading and Exploration
 - pandas.read_csv() - Load data from CSV file into DataFrame
