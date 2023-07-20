@@ -13,7 +13,7 @@ This repository contains a Python script that analyzes and models the `bank.csv`
 
 1. Clone the repository: 
 
-   `````
+   ```
    git clone https://github.com/Nishef/bank-marketing.git
    ```
    
