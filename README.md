@@ -16,12 +16,6 @@ This repository contains a Python script that analyzes and models the `bank.csv`
    ```
    git clone https://github.com/Nishef/bank-marketing.git
    ```
-   
-2. Install the dependencies:
-
-   ````
-   pip install -r requirements.txt
-   ````
 
 ## Usage
 
