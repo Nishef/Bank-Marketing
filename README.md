@@ -1,6 +1,6 @@
 # Bank-Marketing
 
-This repository contains a Python script that analyzes and models the `bank.csv` dataset. The script uses `pandas`, `seaborn`, `matplotlib`, `scikit-learn` libraries to perform data preprocessing, feature engineering, and model selection. 
+This repository contains a Python script that analyzes and models the `bank.csv` dataset. The script uses `pandas`, `seaborn`, `matplotlib`, `scikit-learn` libraries to perform data preprocessing, feature engineering, and model selection. Finally it will predict giving loan or not to a customer. 
 
 ## Dependencies
 
